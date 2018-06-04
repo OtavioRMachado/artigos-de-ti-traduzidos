@@ -1,4 +1,5 @@
 # APIs RESTful – Uma descrição acurada.
+([original](https://johnothecoder.uk/integration-devleopment/restful-apis-an-accurate-description/): RESTful APIs – An accurate description)
 
 E aí, galera. 
 
